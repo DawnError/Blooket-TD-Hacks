@@ -301,9 +301,9 @@ function _0x41f2() {
                  <h2>
                  Return To BlooketHacks:
                  </h2>
-                 <p>
+                 <h3>
                  <a href="https://dawnerror.github.io/APC-Betta-Blooket-Bookmarklets/">
                            APC-Betta-Blooket-Bookmarklets
                            </a>
-                 </p>
+                 </h3>
 </center>
