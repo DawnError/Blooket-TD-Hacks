@@ -312,8 +312,4 @@ function _0x41f2() {
             APC-Betta-Blooket-Bookmarklets
         </a>
     </p>
-</center>">
-                           APC-Betta-Blooket-Bookmarklets
-                           </a>
-                 </p>
 </center>
